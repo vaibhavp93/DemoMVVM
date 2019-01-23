@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoMVVM</string>
+    <string name="no_internet">No internet</string>
+    <string name="cannot_parse">Cann\'t parse response</string>
+    <string name="no_title">no title</string>
+    <string name="no_description">no desc</string>
+</resources>
