@@ -32,6 +32,7 @@ public class DemoAdapter extends RecyclerView.Adapter<DemoAdapter.DemoViewHolder
     public DemoViewHolder onCreateViewHolder(ViewGroup viewGroup, int i) {
         View view = LayoutInflater.from(context).inflate(R.layout.item, viewGroup, false);
         return new DemoViewHolder(view);
+    // hcakjdhkja
     }
 
     @Override
